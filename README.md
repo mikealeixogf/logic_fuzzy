@@ -1,3 +1,3 @@
 ## logic_fuzzy
 
-Modelagem com lógica difusa (fuzzy logic), exemplos básicos e conhecidos. 
+Modelagem com lógica nebulosa (fuzzy logic), exemplos básicos e conhecidos. 
